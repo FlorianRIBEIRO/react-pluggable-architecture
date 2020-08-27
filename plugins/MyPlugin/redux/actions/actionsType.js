@@ -1,0 +1,2 @@
+export const MY_FIRST_ACTION = 'MY_FIRST_ACTION';
+export const MY_SECOND_ACTION = 'MY_SECOND_ACTION';
